@@ -1,6 +1,6 @@
 # **Rad AI Transcriptionist Candidate Evaluation**
 
-*This task is designed to evaluate prospective radiology transcriptionists on their technical competency, transcription skills, and adherence to written guidelines.  The expected time to complete is 15-30 min.*
+*This task is designed to evaluate prospective radiology transcriptionists on their technical competency, transcription skills, and adherence to written guidelines.  You have 72 hours after receiving your evaluation email to submit the completed task.  The expected time to complete is 15-30 min.*
 
 # **Instructions:**
 
